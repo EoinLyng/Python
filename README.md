@@ -34,6 +34,7 @@ Each of the branches were then checked out again and the following commands were
 
 The branch F231228-001 would normally then be deleted following best recommended practices however to show the full history it was not in this assignment.
 I created a second feature branch F231228-002 and follwed the process as outlined above to merge it.
+I created a third feature branch F231228-003 and again follwed the process as outlined above to merge it.
 
 The exercises for Python were broken down in 12 Headings and are included in a directory entitled Python in the Python repo.
 
@@ -50,8 +51,8 @@ The exercises for Python were broken down in 12 Headings and are included in a d
 11. Network Utilities
 12. Projects
 
-- All working files were placed in a Python Folder
-- A sub folder was created in this Python directory for each of the above exercise headings
-- In cases where these headings were broken down into sub headings in the examples addition sub folders weere created to accurately catogorise each python script.
-- The additional folders included in the Github rpository are empty except for a blank file ".getkeep" which allows empty directories to sync to a Github repository.
+- All working files were placed in a Python Folder.
+- A sub folder was created in this Python directory for each of the above exercise headings.
+- In cases where these headings were broken down into sub headings in the examples additional sub folders were created to accurately categorise each python script.
+- The additional folders included in the Github repository are empty except for a blank file ".getkeep" which allows empty directories to sync to a Github repository.
 
