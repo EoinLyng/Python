@@ -33,6 +33,7 @@ Each of the branches were then checked out again and the following commands were
 - git push --set-upstream origin Test
 
 The branch F231228-001 would normally then be deleted following best recommended practices however to show the full history it was not in this assignment.
+I created a second feature branch F231228-002 and follwed the process as outlined above to merge it.
 
 The exercises for Python were broken down in 12 Headings and are included in a directory entitled Python in the Python repo.
 
