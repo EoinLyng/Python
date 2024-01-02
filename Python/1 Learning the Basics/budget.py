@@ -1,0 +1,9 @@
+income=100000
+single_persion_tax_allowance=36800
+taxable_at_20_percent=income-single_persion_tax_allowance
+taxable_at_40_percent=income-taxable_at_20_percent
+percentage_tax_20_=taxable_at_20_percent*.2
+percentage_tax_40_=taxable_at_40_percent*.4
+total_tax=percentage_tax_20_+percentage_tax_40_
+print(total_tax)
+
